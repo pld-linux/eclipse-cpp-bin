@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Eclipse
+Comment=Eclipse
+Comment[pl]=Eclipse
+Exec=eclipse
+Icon=eclipse-icon
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Development;IDE;
